@@ -2540,4 +2540,4 @@ class FastText(nn.Module):
 * [FastText Library](https://fasttext.cc/)
 * [Embedding Projector](http://projector.tensorflow.org/)
 * [SimCLR Paper](https://arxiv.org/abs/2002.05709)
-
+.
